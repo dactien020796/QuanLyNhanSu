@@ -16,5 +16,10 @@ namespace Quan_Ly_Nhan_Su
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Console.WriteLine("aa");
+        }
     }
 }
